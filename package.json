@@ -1,19 +1,16 @@
 {
-  "name": "15-oop-uzdavinys",
+  "name": "15-validation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon .",
+    "dev": "nodemon .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Paulius Dambrauskas",
+  "author": "Rimantas Belovas",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.1"
-  },
-  "dependencies": {
     "nodemon": "^2.0.7"
   }
 }

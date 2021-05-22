@@ -1,6 +1,9 @@
-const Validation = require('./js/Validation');
+const Validation = require('./Validation');
 
 const v = new Validation();
+
+
+
 
 console.log(v.isValidFirstName('Vardenis'), true);
 console.log(v.isValidLastName('Pavardenis'), true);
